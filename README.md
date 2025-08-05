@@ -1,24 +1,35 @@
-# Görev Takip Uygulaması (benimprojem1)
+# Benim Projem 1 - Görev Takip Uygulaması
 
-Bu proje, C# Windows Forms kullanılarak geliştirilen basit bir görev takip uygulamasıdır. Kullanıcıların görevleri ekleyip düzenleyebileceği ve filtreleyebileceği bir masaüstü uygulamadır.
+Bu proje, C# programlama dili ve Windows Forms (WinForms) kullanılarak geliştirilmiş basit bir **Görev Takip Uygulamasıdır**.
 
-## 🎯 Özellikler
+## 🚀 Özellikler
 
-- Görev ekleme, düzenleme ve silme
-- Görevler için açıklama ve durum bilgisi
-- Tarihe göre filtreleme
-- "Bugün yapılacaklar" listesi
-- Veritabanı ile görev saklama (yerel dosya üzerinden)
+- Görev ekleme
+- Görev silme
+- Görev güncelleme
+- Görev durum takibi (Tamamlandı / Devam Ediyor)
 
-## 🛠️ Teknolojiler
+## 🛠️ Kullanılan Teknolojiler
 
-- C# (.NET Framework)
+- C#
+- .NET Framework
 - Windows Forms (WinForms)
-- Visual Studio 2022+
-- Yerel veri yönetimi (`Database.cs` üzerinden)
 
-## 🖥️ Kurulum ve Kullanım
+## 💻 Kurulum ve Kullanım
 
-1. Bu depoyu klonlayın veya ZIP olarak indirin:
-   ```bash
-   git clone https://github.com/goksuatas/benimprojem1.git
+1. Bu projeyi GitHub üzerinden klonlayın veya ZIP olarak indirin:
+    ```
+    git clone https://github.com/goksuatas/benimprojem1.git
+    ```
+
+2. Visual Studio ile `benimprojem1.sln` dosyasını açın.
+
+3. Projeyi çalıştırmak için `F5` tuşuna basın veya "Start" butonuna tıklayın.
+
+## 📄 Lisans
+
+Bu proje herhangi bir lisansa tabi değildir. Dilediğiniz gibi kullanabilirsiniz.
+
+## 👤 Geliştirici
+
+- GitHub: [goksuatas](https://github.com/goksuatas)
